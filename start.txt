@@ -3,3 +3,4 @@ add line
 
 test diff
 
+fix production for automatic merge

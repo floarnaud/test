@@ -4,3 +4,8 @@ add line
 test diff
 
 fix production for automatic merge
+
+
+#test conflict #1
+
+#testconflict #2 branch conflict

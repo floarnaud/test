@@ -1,6 +1,8 @@
-add line
-add line
+add double to deleteline
 
 test diff
 
 fix production for automatic merge
+
+
+# test conflict brnach master
